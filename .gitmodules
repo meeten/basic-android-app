@@ -1,3 +1,6 @@
 [submodule "TestChat"]
 	path = TestChat
 	url = https://github.com/meeten/TestChat.git
+[submodule "Stopwatch"]
+	path = Stopwatch
+	url = https://github.com/meeten/Stopwatch.git
