@@ -4,3 +4,6 @@
 [submodule "Stopwatch"]
 	path = Stopwatch
 	url = https://github.com/meeten/Stopwatch.git
+[submodule "BitsAndPizzas"]
+	path = BitsAndPizzas
+	url = https://github.com/meeten/BitsAndPizzas.git
