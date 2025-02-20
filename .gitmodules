@@ -4,3 +4,6 @@
 [submodule "BitsAndPizzas"]
 	path = BitsAndPizzas
 	url = https://github.com/meeten/BitsAndPizzas.git
+[submodule "TestChat"]
+	path = TestChat
+	url = https://github.com/meeten/TestChat.git
