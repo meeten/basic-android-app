@@ -7,3 +7,6 @@
 [submodule "TestChat"]
 	path = TestChat
 	url = https://github.com/meeten/TestChat.git
+[submodule "GuessingGame"]
+	path = GuessingGame
+	url = https://github.com/meeten/GuessingGame.git
